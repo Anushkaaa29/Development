@@ -1,11 +1,11 @@
 CosmicHeros — Superhero Personality Predictor
-Live Demo: cosmicheros.onrender.com
 
 ---
 
 🚀 Project Overview
 
 CosmicHeros is a fun full-stack web app built with FastAPI that predicts which superhero personality matches you based on your Name and Date of Birth (DOB). The backend is powered by FastAPI and returns predictions from a JSON dataset.
+Live Demo: cosmicheros.onrender.com
 
 ---
 

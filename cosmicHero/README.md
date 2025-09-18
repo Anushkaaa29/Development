@@ -1,4 +1,4 @@
-CosmicHeros — Superhero Personality Predictor
+🦸 CosmicHeros — Superhero Personality Predictor
 
 ---
 

@@ -17,7 +17,5 @@ This repository hosts a **development project** designed for learning, experimen
 - **Data Storage:** JSON  
 - **Status:** In Development  
 
----
 
-## 📂 Repository Structure
 
